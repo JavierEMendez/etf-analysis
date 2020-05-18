@@ -2,6 +2,7 @@
 
 ### Simple financial analysis on the performance of some ETFs compared to the market and Gold (IAU) for personal use. 
 
+**The code and analysis can be found in the etf-code.ipynb file in this repository.**
 
 Using Python/Pandas, analysis was conducted on:
  1. VDC
