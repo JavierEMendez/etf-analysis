@@ -16,8 +16,9 @@ Inside is simple code for calculating (all data from Google Finance, for as far 
  1. Returns.
  2. Risk
      2.1 Box-plots
-     2.2 Variance, Covariance.
-     2.3 Betas (Rolling, for as long as data was available for each individual asset).
+     2.1 Standard Deviations
+     2.3 Variance, Covariance.
+     2.4 Betas (Rolling, for as long as data was available for each individual asset).
  3. Correlations (tabled as well as in a heatmap).
  4. Sharpe Ratios (plotted as well).
  
